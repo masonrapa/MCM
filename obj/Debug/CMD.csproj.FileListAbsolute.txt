@@ -1,0 +1,14 @@
+C:\Users\masonrapa\source\repos\CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\masonrapa\source\repos\CMD\CMD\bin\Debug\CMD.exe
+C:\Users\masonrapa\source\repos\CMD\CMD\bin\Debug\CMD.pdb
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.csprojAssemblyReference.cache
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Form1.resources
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Properties.Resources.resources
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.csproj.GenerateResource.cache
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.exe
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.pdb
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Form2.resources
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Form0.resources
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Form3.resources
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Form4.resources
+C:\Users\masonrapa\source\repos\CMD\CMD\obj\Debug\CMD.Form5.resources
